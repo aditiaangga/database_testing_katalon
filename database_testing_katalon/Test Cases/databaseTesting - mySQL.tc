@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>databaseTesting - mySQL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f62e3796-2169-4f7f-ada4-32e94d7491d9</testCaseGuid>
+</TestCaseEntity>
